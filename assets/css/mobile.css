@@ -89,4 +89,8 @@
         flex-direction: column;
     }
 
+    .hero-image-text {
+        margin-top: 40px;
+    }
+
 }
