@@ -1,5 +1,14 @@
 @media screen and (max-width: 768px) {
 
+
+    html,
+    body {
+        height: 100dvh;
+        margin: 0 auto;
+        overflow-x: hidden;
+
+    }
+
     header {
         display: flex;
         padding: 20px 0px;
