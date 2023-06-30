@@ -32,6 +32,11 @@
         transform: translateX(1000px)
     }
 
+    header nav ul li:nth-child(2)::after {
+        background: rgba(0, 0, 0, .9);
+
+    }
+
     .menu-bar-animation-show {
         animation: show-menu .5s;
         animation-fill-mode: forwards;
